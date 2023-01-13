@@ -18,6 +18,8 @@
 6. The simulation will display the rotating earth in a window, with the ability to control the rotation speed and zoom in and out.
 
 <h2>Dependencies</h2>
-OpenGL,
-GLFW,
-GLM
+
+* OpenGL
+* GLFW
+* GLM
+* freeglut
